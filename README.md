@@ -14,6 +14,6 @@ This repository provides an interactive **visualization of Gradient Descent** al
 - Gain an intuitive understanding of optimization algorithms used in machine learning and statistics.
 
 ## Explore More:
-To dive deeper into the concepts behind gradient descent and how this visualization works, you can check out the full explanation in the [Medium article here](https://link-to-medium-article.com). It covers the theory, mathematical details, and practical implementation behind the visualizations in this repository.
+To dive deeper into the concepts behind gradient descent and how this visualization works, you can check out the full explanation in the [Medium article here](https://medium.com/@brianhulela/understanding-gradient-descent-how-machines-learn-384ba5ad9bfa). It covers the theory, mathematical details, and practical implementation behind the visualizations in this repository.
 
 Feel free to explore the code, experiment with different datasets, and visualize your own gradient descent journeys!
