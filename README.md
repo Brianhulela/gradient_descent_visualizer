@@ -1,6 +1,6 @@
 # Gradient Descent Visualizer
 
-![Cover Image](https://github.com/Brianhulela/gradient_descent_visualizer/blob/master/surface_and_descent_path.png)
+![Cover Image](https://github.com/Brianhulela/gradient_descent_visualizer/blob/master/diagrams/surface_and_descent_path.png)
 
 This repository provides an interactive **visualization of Gradient Descent** algorithm. It demonstrates how the algorithm iteratively adjusts the linear regression parameters (`b0` and `b1`) to minimize the **Mean Squared Error (MSE)**, ultimately converging towards the optimal solution. The visualizations offer a clear view of how the parameters evolve over time, with 3D surface plots of the loss function during the optimization process. We use the [Salary Dataset - Simple linear regression](https://www.kaggle.com/datasets/abhishek14398/salary-dataset-simple-linear-regression) from Kaggle in this example.
 
